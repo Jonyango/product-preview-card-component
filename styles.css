@@ -21,6 +21,7 @@ main{
 }
 p{
   font-size:14px;
+  color: var(--Darkgrayishblue);
 }
 .img-bg{
   height: 100%;
@@ -48,11 +49,42 @@ object-fit: contain;
 }
 
 .img-details{
-  padding: 0 2rem;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
  
 }
 
-h1{
+.img-details p{
   font-weight: 500;
   font-size: large;
+}
+
+h2{
+  font-family: 'Fraunces', serif;
+  font-size: xx-large;
+  color: var(--Verydarkblue);
+
+}
+
+button{
+  outline:none;
+  border:none;
+  cursor:pointer;
+  width: 100%;
+  padding: 12px;
+  border-radius: 14px;
+  color: var(--White);
+  background-color: var(--Darkcyan);
+}
+.percent-off{
+  font-size: 48px;
+  color: var(--Darkcyan);
+  font-weight: 700;
+}
+
+.intial-price{
+  text-decoration: line-through;
+  font-size: small;
 }
