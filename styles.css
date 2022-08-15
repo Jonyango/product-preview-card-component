@@ -29,6 +29,10 @@ p{
 .img-bg img{
  width: 100%;
 object-fit: contain;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+
+
 }
 
 
@@ -44,7 +48,6 @@ object-fit: contain;
   display: grid;
   grid-template-columns: 1fr 1fr;
   width: 50%;
-  background: white;
   border-radius: 10px;
 }
 
@@ -53,6 +56,8 @@ object-fit: contain;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  background: white;
+
  
 }
 
@@ -77,11 +82,15 @@ button{
   border-radius: 14px;
   color: var(--White);
   background-color: var(--Darkcyan);
+  font-family: 'Montserrat', sans-serif;
+
 }
 .percent-off{
   font-size: 48px;
   color: var(--Darkcyan);
   font-weight: 700;
+  font-family: 'Fraunces', serif;
+
 }
 
 .intial-price{
