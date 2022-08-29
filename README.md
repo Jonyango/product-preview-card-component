@@ -51,13 +51,13 @@ Users should be able to:
 I learned about new html tags. The `<s>` and `<sup>` tag.
 
 ```html
-<sup>Makes whatever inside the tage to be a supserscript</sup>
-<s>Whatever is inside this tag becomes would have a strikethrough</s>
+<sup> Makes whatever inside the tag to be a supserscript </sup>
+<s> Whatever is inside this tag becomes would have a strikethrough </s>
 ```
 
 ### Continued development
 
-- I am plan to contiue to work on responsive layouts especially responsive images.
+- I am plan to continue to work on responsive layouts especially responsive images.
 ## Author
 
 - Frontend Mentor - [@jonyango](https://www.frontendmentor.io/profile/Jonyango)
