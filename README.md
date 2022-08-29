@@ -28,8 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+![Product](https://user-images.githubusercontent.com/43377714/187269681-b49cec07-4ac0-4acc-8d76-c2b8f4ecd947.PNG)
 
 
 ### Links
